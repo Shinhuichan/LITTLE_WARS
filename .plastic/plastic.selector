@@ -1,0 +1,4 @@
+repository "LITTLE WARS@GoodGunI@cloud"
+  path "/"
+    br "/main"
+    co "/main"
